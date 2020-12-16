@@ -1,0 +1,43 @@
+.p1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.p1 {
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+img {
+    border-radius: 8px;
+}
+
+.p2 {
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 80px;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.p3 {
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 80px;
+}
+
+.p3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
